@@ -1,0 +1,8 @@
+{
+  "logging": {
+    "level": "INFO",
+    "appender": "CONSOLE",
+    "pattern": "%d{yyyy-MM-dd HH:mm:ss} %-5level [%thread] %logger{36} - %msg%n"
+  }
+}
+

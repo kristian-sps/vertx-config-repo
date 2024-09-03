@@ -1,0 +1,9 @@
+{
+  "s3": {
+    "bucketName": "my-service-a-bucket",
+    "accessKeyId": "your-access-key-id",
+    "secretAccessKey": "your-secret-access-key",
+    "region": "us-west-2"
+  }
+}
+
